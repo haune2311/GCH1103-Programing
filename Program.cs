@@ -20,7 +20,14 @@
             Console.Write("Input c: ");
             c = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("After Input: {0}",c);
-
+            float d;
+            Console.Write("Input d: ");
+            d = float.Parse(Console.ReadLine());
+            Console.WriteLine("After Input: {0}", d);
+            double e;
+            Console.Write("Input e: ");
+            double.TryParse(Console.ReadLine(), out e);
+            Console.WriteLine("After Input: {0}" , e);
         }
     }
 }

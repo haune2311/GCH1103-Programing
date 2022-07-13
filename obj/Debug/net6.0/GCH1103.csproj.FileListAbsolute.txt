@@ -1,0 +1,15 @@
+D:\hoc\GCH1103\bin\Debug\net6.0\GCH1103.exe
+D:\hoc\GCH1103\bin\Debug\net6.0\GCH1103.deps.json
+D:\hoc\GCH1103\bin\Debug\net6.0\GCH1103.runtimeconfig.json
+D:\hoc\GCH1103\bin\Debug\net6.0\GCH1103.dll
+D:\hoc\GCH1103\bin\Debug\net6.0\GCH1103.pdb
+D:\hoc\GCH1103\obj\Debug\net6.0\GCH1103.csproj.AssemblyReference.cache
+D:\hoc\GCH1103\obj\Debug\net6.0\GCH1103.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\GCH1103\obj\Debug\net6.0\GCH1103.AssemblyInfoInputs.cache
+D:\hoc\GCH1103\obj\Debug\net6.0\GCH1103.AssemblyInfo.cs
+D:\hoc\GCH1103\obj\Debug\net6.0\GCH1103.csproj.CoreCompileInputs.cache
+D:\hoc\GCH1103\obj\Debug\net6.0\GCH1103.dll
+D:\hoc\GCH1103\obj\Debug\net6.0\refint\GCH1103.dll
+D:\hoc\GCH1103\obj\Debug\net6.0\GCH1103.pdb
+D:\hoc\GCH1103\obj\Debug\net6.0\GCH1103.genruntimeconfig.cache
+D:\hoc\GCH1103\obj\Debug\net6.0\ref\GCH1103.dll

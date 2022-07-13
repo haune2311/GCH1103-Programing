@@ -28,6 +28,11 @@
             Console.Write("Input e: ");
             double.TryParse(Console.ReadLine(), out e);
             Console.WriteLine("After Input: {0}" , e);
+            //Math
+            int f = 9, g = 5;
+            Console.WriteLine((float)f % g); // + - * / % ++ --
+            Console.WriteLine(Math.Sqrt(f)); //can bac hai
+            Console.WriteLine(Math.Pow(g, 2)); //luy thua
         }
     }
 }

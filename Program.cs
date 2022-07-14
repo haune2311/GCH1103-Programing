@@ -170,7 +170,7 @@ namespace GCH1103
             dientich = (canh1 * canh2) / 2;
             Console.WriteLine("Chu vi tam giác vuông: {0}", chuvi);
             Console.WriteLine("Diện tích tam giác vuông: {0}", dientich);
-            Console.WriteLine("Bài tập 6");
+            Console.WriteLine("Bài tập 7");
             Console.Write("Nhập cạnh a: ");
             canh1 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Nhập cạnh b: ");
